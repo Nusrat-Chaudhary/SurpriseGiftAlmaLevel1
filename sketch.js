@@ -182,7 +182,7 @@ function draw() {
 
   textSize(20);
   fill("RED");
-  text("DEATH " + level1Death, 150, 30);
+ // text("DEATH " + level1Death, 150, 30);
 }
 
 
